@@ -2,6 +2,9 @@
 
 A phone number validator for job interview.
 
+https://user-images.githubusercontent.com/36691904/115660584-ce6e5780-a36e-11eb-8ed4-503b7b6be224.mov
+
+
 ## Screenshots
 
 ### Home Screen
